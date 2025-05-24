@@ -10,7 +10,7 @@ By following this guide you must have `Administrator`permission and Appy must be
 
 ## Step one
 
-Visit the [Appy website](https://appybot.xyz/dashbord) and select the server which you want to configure.
+Visit the [Appy website](https://appybot.xyz/dashboard) and select the server which you want to configure.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Appy dashboard</p></figcaption></figure>
 
