@@ -39,7 +39,7 @@ Read more about what you get with premium [here.](broken-reference)
 
 <summary>How to make a application?</summary>
 
-Head to [Application forms](../getting-started/set-up/applications-forms.md) to see the guide how to set up a application.&#x20;
+Head to [Application forms](../getting-started/set-up/application-forms.md) to see the guide how to set up a application.&#x20;
 
 </details>
 

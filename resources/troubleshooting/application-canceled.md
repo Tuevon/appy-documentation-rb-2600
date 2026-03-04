@@ -1,6 +1,6 @@
 # Application canceled
 
-<figure><img src="../../.gitbook/assets/Application expired.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Application Expired.png" alt=""><figcaption></figcaption></figure>
 
 If this appears in your application, it is because you have spent too much time on it or you have been away from it for too long
 

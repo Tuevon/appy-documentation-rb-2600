@@ -4,7 +4,7 @@ You have made an application form and pressed save, but it does not appear on yo
 
 ## How to fix?
 
-* You need to make a [Panel](../../getting-started/set-up/panels.md)
+* You need to make a [Panel](../../getting-started/set-up/application-panels.md)
 * [Appy is offline](appy-bot-is-offline.md)
 
 {% hint style="success" %}
