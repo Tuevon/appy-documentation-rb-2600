@@ -11,11 +11,11 @@ By following this guide you must have `Administrator` permission and Appy must b
 
 Visit the [Appy Dashboard](https://appybot.xyz/dashboard) and select the server which you want to configure.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Appy dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Appy dashboard, server list view</p></figcaption></figure>
 
 ## Step 2
 
-Once you have selected select the "ticket templates" option in the side navbar. A ticket template is what is used to configure your ticket, it has different options such as specifying actions whenever a user leaves, pinging support roles and setting up ticket categories/logging.
+Once you have selected select the "Ticket templates" option in the side navbar. A ticket template is what is used to configure your ticket, it has different options such as specifying actions whenever a user leaves, pinging support roles and setting up ticket categories/logging.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -23,16 +23,16 @@ Once you have selected select the "ticket templates" option in the side navbar. 
 
 The next step is to create a ticket template, you can do this by writing the ticket name in the text input and clicking "new ticket template"
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>create a ticket template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Create a ticket template</p></figcaption></figure>
 
 ## Step 4
 
-Fill out the required settings.&#x20;
+Fill out the required settings.
 
-* Name: this is the name of the ticket, eg support ticket
-* Ticket category: the category channel that user created tickets will be made under
-* Ticket logging channel: The channel where closed tickets will be sent too (transcripts)
-* Support team roles: Anyone with these roles can view tickets and close them &#x20;
+* Name: The name of the ticket, e.g. “Support Ticket”
+* Ticket category: The category channel where user-created tickets will be sent once created
+* Ticket logging channel: The channel where closed tickets will be sent to (transcripts)
+* Support team roles: Anyone with these roles can view tickets of this template and close them
 
 Once you have filled out the necesary information click the save button at the bottom of your screen.
 
