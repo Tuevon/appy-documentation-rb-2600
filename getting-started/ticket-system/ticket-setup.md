@@ -7,13 +7,13 @@ description: Setup guide for Appy tickets
 By following this guide you must have `Administrator` permission and Appy must be invited to your server.
 {% endhint %}
 
-## Step 1:
+## Step 1
 
 Visit the [Appy Dashboard](https://appybot.xyz/dashboard) and select the server which you want to configure.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Appy dashboard</p></figcaption></figure>
 
-## Step 2:
+## Step 2
 
 Once you have selected select the "ticket templates" option in the side navbar. A ticket template is what is used to configure your ticket, it has different options such as specifying actions whenever a user leaves, pinging support roles and setting up ticket categories/logging.
 
